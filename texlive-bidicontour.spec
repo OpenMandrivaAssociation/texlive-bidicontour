@@ -1,6 +1,6 @@
 Name:		texlive-bidicontour
 Version:	34631
-Release:	1
+Release:	2
 Summary:	Bidi-aware coloured contour around text
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bidicontour
