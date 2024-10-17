@@ -3,7 +3,7 @@ Version:	34631
 Release:	2
 Summary:	Bidi-aware coloured contour around text
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bidicontour
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/bidicontour
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bidicontour.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bidicontour.doc.r%{version}.tar.xz
